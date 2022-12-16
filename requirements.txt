@@ -1,0 +1,5 @@
+neo4j-driver==4.3.6
+# ubuntu
+#apt-get install -y libgeos-dev
+neomodel==4.0.8
+
